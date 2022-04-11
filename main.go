@@ -6,5 +6,4 @@ import(
 
 func main(){
     fmt.Println("go,yes!")
-    fmt.Println("test")
 }
